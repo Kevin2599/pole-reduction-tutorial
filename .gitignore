@@ -2,6 +2,15 @@
 .*~
 *.pyc
 *-eps-converted-to-pdf.pdf
-manuscript/output/*
 .env
-code/.ipynb_checkpoints/
+.ipynb_checkpoints/
+*.aux
+*.bbl
+*.log
+*.out
+*.blg
+*.fff
+*.lof
+*.tex
+*.pdf
+*.doc
